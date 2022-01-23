@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: convtemp
-        image: felipefranca93/convtemp:v1
+        image: fabricioveronez/conversao-temperatura
         ports:
         - containerPort: 8080
 ---
